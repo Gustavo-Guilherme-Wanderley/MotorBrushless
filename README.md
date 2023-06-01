@@ -1,6 +1,8 @@
 # Motores elétricos
 > Status: Desenvolvimento do relatório ⚠️
 ### Existe uma infinidade de motores no mercado da eletridade e da eletrônica. A escolha do tipo está diretamente realicionada a necessidade do projeto.
+# Speed Control ESC 25 A 30A
+### 
 
 # Motores CC
 
