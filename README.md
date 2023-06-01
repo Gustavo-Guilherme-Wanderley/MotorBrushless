@@ -32,7 +32,7 @@ Os motores brushless oferecem maior eficiência, maior controle de velocidade e 
 ![CIRCUITO DE CONTROLE LIGADO AO ARDUINO](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/5420ebb6-33d1-47bb-8801-72ef21db6bd9)
 
 # Código para utilizar o ESC 
-
+### Este é um código simples para mostrar a capacidade do arduino junto do ESC para controlar a velocidade do motor Brushless.
 ```
 #include <Servo.h>
 
@@ -54,7 +54,6 @@ void loop() {
   ESC.write(ValorPOT);
 }
 ```
-### Este é um código simples para mostrar a capacidade do arduino junto do ESC para controlar a velocidade do motor Brushless.
 # Início do código
 ```
 #include <Servo.h>
