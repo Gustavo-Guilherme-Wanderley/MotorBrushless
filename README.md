@@ -10,7 +10,8 @@
 
 ![Brushless](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/dfca61dd-eec7-4571-8cb2-f7f62321912a)
 
-Modelo acima é HACKER A30-14L V2 OUTRUNNER BRUSHLESS MOTOR AIR PLANE.
+Modelo acima é um **exemplo** de motor brushless
+HACKER A30-14L V2 OUTRUNNER BRUSHLESS MOTOR AIR PLANE.
 
 Especificações:
 + Weight 143.00 
