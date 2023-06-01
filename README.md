@@ -27,6 +27,9 @@ Os motores brushless oferecem maior eficiência, maior controle de velocidade e 
 ![ESC 30A](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305741/19542791-15f0-4bb4-b663-839dae5f46e4)
 
 É um dispositivo eletrônico usado para controlar a velocidade de motores elétricos em aplicações como aeromodelismo, drones, carros RC (controle remoto) e outras formas de veículos ou dispositivos movidos a motor elétrico.
+# Circuito para utilizar o ESC juntamente o Arduino UNO
+
+![CIRCUITO DE CONTROLE LIGADO AO ARDUINO](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/5420ebb6-33d1-47bb-8801-72ef21db6bd9)
 
 # Código para utilizar o ESC 
 ![Código ESC 30A](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/fd313833-440d-429d-814f-e2d8a3fc4576) 
@@ -47,10 +50,11 @@ Dentro do loop principal loop(), o código lê o valor do potenciômetro usando 
 
 Em seguida, o valor lido do potenciômetro é mapeado para a faixa de 0 a 180 usando a função map(). Isso é necessário porque a biblioteca Servo do Arduino espera um valor entre 0 e 180 para controlar a posição do servo.
 
-Por fim, o valor mapeado potValue é enviado para o ESC usando ESC.write(potValue). O ESC interpreta esse valor como um ângulo e ajusta a velocidade do motor brushless correspondente.
+Por fim, o valor mapeado ValorPOT é enviado para o ESC usando ESC.write(ValorPOT). O ESC interpreta esse valor como um ângulo e ajusta a velocidade do motor brushless correspondente.
 
-Certifique-se de conectar corretamente o potenciômetro ao pino analógico A0 do Arduino e o ESC ao pino 9 (ou qualquer outro pino digital disponível). Além disso, verifique as especificações do seu ESC para determinar os valores corretos para a largura do pulso.
+Além disso, verifique as especificações do seu ESC para determinar os valores corretos para a largura do pulso.
 
 # Fontes: 
 + https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
++ https://www.worthpoint.com/worthopedia/hacker-a30-14l-v2-outrunner-brushless-431114921
 > Status: Desenvolvimento do relatório ⚠️
