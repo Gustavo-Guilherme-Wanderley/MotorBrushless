@@ -3,7 +3,7 @@
 ### Existe uma infinidade de motores no mercado da eletridade e da eletrônica. A escolha do tipo está diretamente realicionada a necessidade do projeto.
 # Speed Control ESC 25 A 30A
 ![ESC 30A](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305741/19542791-15f0-4bb4-b663-839dae5f46e4)
-
+### É um dispositivo eletrônico usado para controlar a velocidade de motores elétricos em aplicações como aeromodelismo, drones, carros RC (controle remoto) e outras formas de veículos ou dispositivos movidos a motor elétrico.
 # Motores CC
 
 # Motores AC
