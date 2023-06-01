@@ -21,5 +21,5 @@
 ### Como usar esse tipo de motor com um arduino?
 
 ![Uno](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/8c2e90bb-4a35-4c05-84dd-093604007c7f)
-
+https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
 > Status: Desenvolvimento do relatório ⚠️
