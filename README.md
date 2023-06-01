@@ -32,19 +32,59 @@ Os motores brushless oferecem maior eficiência, maior controle de velocidade e 
 ![CIRCUITO DE CONTROLE LIGADO AO ARDUINO](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/5420ebb6-33d1-47bb-8801-72ef21db6bd9)
 
 # Código para utilizar o ESC 
-![Código ESC 30A](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/fd313833-440d-429d-814f-e2d8a3fc4576) 
+
+```
+#include <Servo.h>
+
+Servo ESC;     
+
+int ValorPOT;  
+
+void setup() {
+
+  ESC.attach(9,1000,2000); 
+  
+}
+
+void loop() {
+  ValorPOT = analogRead(A0);   
+  
+  ValorPOT = map(ValorPOT, 0, 1023, 0, 180);  
+   
+  ESC.write(ValorPOT);
+}
+```
 ### Este é um código simples para mostrar a capacidade do arduino junto do ESC para controlar a velocidade do motor Brushless.
 # Início do código
-![Parte inicial código](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/f50318a8-201b-425b-92d9-1bbdc79dd85f)
+```
+#include <Servo.h>
 
+Servo ESC;     
+
+int ValorPOT; 
+```
 Aqui, é declarada uma variável ValorPOT do tipo inteiro, que será usada para armazenar o valor lido do potenciômetro.
 
 # Void setup
-![Void setup](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/29024623-67fa-40a5-9ec3-a9afc4f0be46)
+```
+void setup() {
 
+  ESC.attach(9,1000,2000); 
+  
+}
+```
 No bloco setup(), o ESC é inicializado. O método attach() é usado para vincular o objeto ESC ao pino 9 do Arduino. Além disso, são especificados os valores mínimos e máximos da largura do pulso em microssegundos que o ESC pode receber. Esses valores podem variar dependendo do ESC que você está usando, portanto, verifique as especificações do seu ESC para determinar os valores corretos.
 # Void loop
-![Void loop](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/73cf6b73-a32a-4d6d-ba8e-bd5aa9bafa58)
+
+```
+void loop() {
+  ValorPOT = analogRead(A0);   
+  
+  ValorPOT = map(ValorPOT, 0, 1023, 0, 180);  
+   
+  ESC.write(ValorPOT);
+}
+```
 
 Dentro do loop principal loop(), o código lê o valor do potenciômetro usando analogRead(A0), onde A0 é o pino analógico ao qual o potenciômetro está conectado. O valor lido está na faixa de 0 a 1023.
 
