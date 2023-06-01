@@ -8,6 +8,27 @@
 
 # Motores Brushless
 
+![Brushless](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/dfca61dd-eec7-4571-8cb2-f7f62321912a)
+
+Modelo acima é HACKER A30-14L V2 OUTRUNNER BRUSHLESS MOTOR AIR PLANE.
+
+Especificações:
++ Weight 143.00 
++ Grams Shaft 
++ Diameter 5.00 mm 
++ Shaft 
++ Length 17.0000 mm 
++ RPMv 800 Idle 
++ Current 1.60 Amps 
++ Operating Current 
++ 40 Amps Peak Current 
++ 50 Amps Peak Watts 
++ 500 Peak Amps 
++ 0.0000 Resistance 
++ 0.0360 ohms 
++ Poles 14 Orientation Out Motor 
++ Diameter 37.00 mm Motor Length 46.00 mm
+
 ## Qual a diferença desse tipo para os motores CC convencionais?
 
 Os motores brushless oferecem maior eficiência, maior controle de velocidade e torque, menor necessidade de manutenção, mas também tendem a ser mais complexos e mais caros do que os motores CC convencionais. A escolha entre esses dois tipos de motores depende das necessidades específicas da aplicação e das restrições de custo.
