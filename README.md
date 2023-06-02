@@ -3,6 +3,9 @@
 ### Existe uma infinidade de motores no mercado da eletridade e da eletrônica. A escolha do tipo está diretamente realicionada a necessidade do projeto.
 
 # Motores CC
+Motores CC, convertem a energia elétrica de corrente contínua em energia mecanica. Com o auxilio das escovas e dos comutadores, o motor consegue se manter rotacionando, porém essas escovas causam um desgaste, que torna a necessidade de manutenção mais frequente. 
+
+![atuadores_a02_g01](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/fb44b39e-0a44-4946-926b-8c4e4a1d65a8)
 
 # Motores AC
 
@@ -118,4 +121,5 @@ Além disso, verifique as especificações do seu ESC para determinar os valores
 # Fontes: 
 + https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
 + https://www.worthpoint.com/worthopedia/hacker-a30-14l-v2-outrunner-brushless-431114921
++ https://materialpublic.imd.ufrn.br/curso/disciplina/1/58/2/2
 > Status: Desenvolvimento do relatório ⚠️
