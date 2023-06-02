@@ -2,14 +2,18 @@
 > Status: Desenvolvimento do relatório ⚠️
 ### Existe uma infinidade de motores no mercado da eletridade e da eletrônica. A escolha do tipo está diretamente realicionada a necessidade do projeto.
 
-# Motores CC
-Motores CC, convertem a energia elétrica de corrente contínua em energia mecanica. Com o auxilio das escovas e dos comutadores, o motor consegue se manter rotacionando, porém essas escovas causam um desgaste, que torna a necessidade de manutenção mais frequente. 
+# Motores DC
+Motores DC, convertem a energia elétrica de corrente contínua em energia mecanica. Com o auxilio das escovas e dos comutadores, o motor consegue se manter rotacionando, porém essas escovas causam um desgaste, que torna a necessidade de manutenção mais frequente. 
 
 ![atuadores_a02_g01](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/fb44b39e-0a44-4946-926b-8c4e4a1d65a8)
 
 # Motores AC
+Motores AC, funcionam com corrente alternada. Esse tipo de motor já não possui escovas, e se mantém ativo por interações de campos magnéticos, que são gerados pela corrente alternada. Porém esses motores são mais complexos, possuindo vários componentes, o que aumenta as chances de defeito.
+
+![motor-corrente-alternada-05](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/f81299ff-8c73-49ec-96cb-165e28c86f4c)
 
 # Motores Brushless
+
 
 ![Brushless](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/dfca61dd-eec7-4571-8cb2-f7f62321912a)
 
