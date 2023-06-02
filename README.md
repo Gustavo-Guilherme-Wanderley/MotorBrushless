@@ -6,17 +6,16 @@
 Motores DC, convertem a energia elétrica de corrente contínua em energia mecanica. Com o auxilio das escovas e dos comutadores, o motor consegue se manter rotacionando, porém essas escovas causam um desgaste, que torna a necessidade de manutenção mais frequente. 
 
 
-<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/fb44b39e-0a44-4946-926b-8c4e4a1d65a8" width=50% height=50%>
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/fb44b39e-0a44-4946-926b-8c4e4a1d65a8" width=40% height=40%>
 
 # Motores AC
 Motores AC, funcionam com corrente alternada. Esse tipo de motor já não possui escovas, e se mantém ativo por interações de campos magnéticos, que são gerados pela corrente alternada. Porém esses motores são mais complexos, possuindo vários componentes, o que aumenta as chances de defeito.
 
-<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/f81299ff-8c73-49ec-96cb-165e28c86f4c" width=50% height=50%>
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/f81299ff-8c73-49ec-96cb-165e28c86f4c" width=40% height=40%>
 
 # Motores Brushless
 
-
-![Brushless](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/dfca61dd-eec7-4571-8cb2-f7f62321912a)
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/dfca61dd-eec7-4571-8cb2-f7f62321912a" width=40% height=40%>
 
 ## Modelo acima é um **exemplo** de motor brushless.
 ### HACKER A30-14L V2 OUTRUNNER BRUSHLESS MOTOR AIR PLANE.
@@ -50,11 +49,11 @@ Os motores brushless oferecem maior eficiência, maior controle de velocidade e 
 
 ### Como usar esse tipo de motor com um arduino?
 
-![Uno](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/8c2e90bb-4a35-4c05-84dd-093604007c7f)
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/8c2e90bb-4a35-4c05-84dd-093604007c7f" width=40% height=40%>
 
 # ESC
 
-![ESC 30A](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305741/19542791-15f0-4bb4-b663-839dae5f46e4)
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305741/19542791-15f0-4bb4-b663-839dae5f46e4" width=40% height=40%>
 
 É um dispositivo eletrônico usado para controlar a velocidade de motores elétricos em aplicações como aeromodelismo, drones, carros RC (controle remoto) e outras formas de veículos ou dispositivos movidos a motor elétrico.
 # Circuito para utilizar o ESC juntamente o Arduino UNO
