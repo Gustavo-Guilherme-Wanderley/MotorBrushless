@@ -52,7 +52,7 @@ Os motores brushless oferecem maior eficiência, maior controle de velocidade e 
 
 ![Uno](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/77367556/8c2e90bb-4a35-4c05-84dd-093604007c7f)
 
-# Speed Control ESC 25 A 30A
+# ESC
 
 ![ESC 30A](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305741/19542791-15f0-4bb4-b663-839dae5f46e4)
 
