@@ -5,7 +5,8 @@
 # Motores DC
 Motores DC, convertem a energia elétrica de corrente contínua em energia mecanica. Com o auxilio das escovas e dos comutadores, o motor consegue se manter rotacionando, porém essas escovas causam um desgaste, que torna a necessidade de manutenção mais frequente. 
 
-![atuadores_a02_g01](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/fb44b39e-0a44-4946-926b-8c4e4a1d65a8)
+
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/fb44b39e-0a44-4946-926b-8c4e4a1d65a8" width=50% height=50%>
 
 # Motores AC
 Motores AC, funcionam com corrente alternada. Esse tipo de motor já não possui escovas, e se mantém ativo por interações de campos magnéticos, que são gerados pela corrente alternada. Porém esses motores são mais complexos, possuindo vários componentes, o que aumenta as chances de defeito.
