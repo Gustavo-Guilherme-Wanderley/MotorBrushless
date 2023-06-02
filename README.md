@@ -10,7 +10,7 @@ Motores DC, convertem a energia elétrica de corrente contínua em energia mecan
 # Motores AC
 Motores AC, funcionam com corrente alternada. Esse tipo de motor já não possui escovas, e se mantém ativo por interações de campos magnéticos, que são gerados pela corrente alternada. Porém esses motores são mais complexos, possuindo vários componentes, o que aumenta as chances de defeito.
 
-![motor-corrente-alternada-05](https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/f81299ff-8c73-49ec-96cb-165e28c86f4c)
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/MotorBrushless/assets/132305457/f81299ff-8c73-49ec-96cb-165e28c86f4c" width=50% height=50%>
 
 # Motores Brushless
 
